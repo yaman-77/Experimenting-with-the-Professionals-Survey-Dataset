@@ -37,11 +37,11 @@ This project intentionally combines **course-guided learning** with **self-drive
 ---
 
 ## 🗂️ Repository Structure
-├── data/ # Raw dataset
-├── power_bi/ # Power BI files (.pbix)
-├── notebooks/ # Python notebooks for analysis and modeling
-├── images/ # Dashboard screenshots used in the README
-└── README.md # Project documentation
+   ├── data/ # Raw dataset
+   ├── power_bi/ # Power BI files (.pbix)
+   ├── notebooks/ # Python notebooks for analysis and modeling
+   ├── images/ # Dashboard screenshots used in the README
+   └── README.md # Project documentation
 
 ---
 
